@@ -12,7 +12,7 @@ for practicing mark down tutorials
 
 
 </p>
-(![Screenshot(53)](https://github.com/user-attachments/assets/446eef5e-23c4-4f4a-a753-a4a813da5c01))
+![Screenshot(53)](https://github.com/user-attachments/assets/3b971726-a659-4fb0-acca-7c7b6cccbb52)
 
 
 
