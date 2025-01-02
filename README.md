@@ -12,7 +12,7 @@ for practicing mark down tutorials
 
 
 </p>
-![Screenshot of lorem ipsum used to generate as many texts!](https://raw.githubusercontent.com/bhavyaJ231/md-tutorials/main/Screenshot%20(53).png)
+(![Screenshot(53)](https://github.com/user-attachments/assets/446eef5e-23c4-4f4a-a753-a4a813da5c01))
 
 
 
