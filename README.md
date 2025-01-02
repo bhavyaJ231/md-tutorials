@@ -12,7 +12,6 @@ for practicing mark down tutorials
 
 
 </p>
-![hhh](https://github.com/user-attachments/assets/51eb958a-4f03-4019-aeec-a1597829585e)
 
 
 
