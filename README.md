@@ -13,7 +13,6 @@ for practicing mark down tutorials
 
 </p>
 ![Screenshot of lorem ipsum used to generate as many texts!](https://raw.githubusercontent.com/bhavyaJ231/md-tutorials/main/Screenshot%20(53).png)
-![Screenshot of lorem ipsum used to generate as many texts!](https://raw.githubusercontent.com/bhavyaJ231/md-tutorials/main/Screenshot%20(53).png)
 
 
 
